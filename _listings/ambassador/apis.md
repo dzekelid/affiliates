@@ -1,5 +1,4 @@
 ---
----
 name: Ambassador
 description: Ambassador empowers businesses to increase revenue by driving and managing
   more referrals. Our easy-to-use referral marketing software automates the process
@@ -44,6 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
-...
-
 ---
