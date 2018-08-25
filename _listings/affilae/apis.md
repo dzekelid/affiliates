@@ -12,21 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/affilae/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Affilae
-  x-api-slug: affilae
-  description: Affilae is a marketing affiliate tracking platform. Affilae allows
-    brands and companies to keep track of and reward their online marketing affiliates.The
-    Affilae API allows developers to access and integrate the functionality of Affilae
-    with other applications. Some example API methods include listing advertisers,
-    listing partnerships, and retrieving advertising conversions.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1999-affilae.jpg
-  humanURL: https://affilae.com/en
-  baseURL: https:///
-  tags: Affiliates
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/affilae/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.affilae.com/

@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/best-buy/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Best Buy APIs
-  x-api-slug: best-buy-apis
-  description: Best Buy Company Profile  With operations in the United States,  Canada
-    and Mexico, Best Buy is a North  American retailer of technology and  entertainment
-    products and services with  a commitment to growth and innovation.  The Best Buy
-    family of brand...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/158-best-buy-apis.jpg
-  humanURL: http://www.bestbuy.com/
-  baseURL: https:///
-  tags: Affiliates
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/best-buy/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.remix.bestbuy.com/

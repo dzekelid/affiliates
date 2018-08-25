@@ -12,9 +12,18 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Amadeus
-  x-api-slug: amadeus
-  description: amadeus-api-is-a-toolkit-designed-for-travel-agencies-who-want-to-develop-their-own-travel-products-rather-than-using-offtheshelf-solutions--with-this-tool-you-can-build-your-very-own-customised-applications-that-link-in-a-stable-and-secure-dialogue-with-our-global-distribution-system-gds-
+- name: Amadeus - Get Flights Affiliate Search
+  x-api-slug: flightsaffiliatesearch-get
+  description: "The Flight Affiliate Search API combines Amadeus' flight search technology
+    with Travel Audience's Connect API partners to provide a unique flight search,
+    where all results come with deep-links to book the flight at a partner's website.
+    The API will let you easily provide the traveler with a path to book flights from
+    your application.\nTravel Audience Connect partners include\n\n  CityJet, Air
+    Europa and TAP in Western Europe,\n  Ural Airlines in Russia, \n  Avianca Brazil
+    \ and\n  JAL in East Asia\n\n\nOnly Travel Audience Connect partner airlines are
+    searched. For an up-to-date list of routes, see the route maps on each partners
+    respective websites above. You can earn commission using the deep links provided
+    in the search results if you sign up for an account at connect.travelaudience.com."
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
   humanURL: https://amadeus.com
   baseURL: https://api.sandbox.amadeus.com//v1.2
@@ -25,9 +34,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/flightsaffiliatesearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/flightsaffiliatesearch-get-openapi.md
-- name: Amadeus
-  x-api-slug: amadeus
-  description: amadeus-api-is-a-toolkit-designed-for-travel-agencies-who-want-to-develop-their-own-travel-products-rather-than-using-offtheshelf-solutions--with-this-tool-you-can-build-your-very-own-customised-applications-that-link-in-a-stable-and-secure-dialogue-with-our-global-distribution-system-gds-
+- name: Amadeus - Get Flights Affiliate Search
+  x-api-slug: flightsaffiliatesearch-get
+  description: "The Flight Affiliate Search API combines Amadeus' flight search technology
+    with Travel Audience's Connect API partners to provide a unique flight search,
+    where all results come with deep-links to book the flight at a partner's website.
+    The API will let you easily provide the traveler with a path to book flights from
+    your application.\nTravel Audience Connect partners include\n\n  CityJet, Air
+    Europa and TAP in Western Europe,\n  Ural Airlines in Russia, \n  Avianca Brazil
+    \ and\n  JAL in East Asia\n\n\nOnly Travel Audience Connect partner airlines are
+    searched. For an up-to-date list of routes, see the route maps on each partners
+    respective websites above. You can earn commission using the deep links provided
+    in the search results if you sign up for an account at connect.travelaudience.com."
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
   humanURL: https://amadeus.com
   baseURL: https://api.sandbox.amadeus.com//v1.2
@@ -38,20 +56,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/flightsaffiliatesearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/flightsaffiliatesearch-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/flightsaffiliatesearch-get-openapi.md
-- name: Amadeus
-  x-api-slug: amadeus
-  description: Amadeus travel technology helps businesses connect to the global travel
-    ecosystem, manage operations more effectively and serve travellers better than
-    ever
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
-  humanURL: https://amadeus.com
-  baseURL: https://api.sandbox.amadeus.com//v1.2
-  tags: Affiliates
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://amadeus.api.gallery.streamdata.io

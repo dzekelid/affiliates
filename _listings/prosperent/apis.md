@@ -11,24 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/prosperent/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Prosperent
-  x-api-slug: prosperent
-  description: Prosperent provides a platform for affiliate marketers to place dynamic,
-    targeted ads on their websites. The API provides access to the functionality of
-    the platform. Developers can build apps with the API and earn commission on every
-    sale driven through the system, or simply use the API to augment their web site
-    to help monetize their traffic. The documentation includes complete details about
-    all parameters that should be set and describes in detail the extended query syntax
-    and extra functionality of the search endpoint. Documentation is available upon
-    registration.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/904-prosperent.jpg
-  humanURL: http://prosperent.com
-  baseURL: https:///
-  tags: Affiliates
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/prosperent/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.prosperent.com/api/
