@@ -1,69 +1,185 @@
 {
-	"name": "Jumpseller",
-	"x-slug": "jumpseller",
-	"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28432-jumpseller-api.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "153745",
-	"tags": "Affiliates",
-	"created": "2018-08-25",
-	"modified": "2018-08-25",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/affiliates\/master\/_listings\/jumpseller\/apis.md",
+	"name": "Streadata.io API Gallery - Affiliates",
+	"description": "This is a repository of affiliates APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/affiliates.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://affiliates.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Jumpseller",
-			"x-api-slug": "jumpseller",
-			"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28432-jumpseller-api.jpg",
-			"humanURL": "http:\/\/jumpseller.com",
-			"baseURL": "https:\/\/api.jumpseller.com\/\/v1",
+			"name": "Best Buy",
+			"x-api-slug": "best-buy",
+			"description": "Best Buy Company Profile  With operations in the United States,  Canada and Mexico, Best Buy is a North  American retailer of technology and  entertainment products and services with  a commitment to growth and innovation.  The Best Buy family of brand...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/158-best-buy-apis.jpg",
+			"humanURL": "http://www.bestbuy.com/",
+			"baseURL": "https:///",
 			"tags": "Affiliates",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/affiliates\/master\/_listings\/jumpseller\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/best-buy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Expedia",
+			"x-api-slug": "expedia",
+			"description": "Expedia Affiliate Network is the B2B partnership brand of Expedia, Inc. Our technology powers the hotel offering of thousands of partners around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/195-expedia.jpg",
+			"humanURL": "http://developer.ean.com/",
+			"baseURL": "https://apim.expedia.com/x/",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/expedia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PhotoXpress",
+			"x-api-slug": "photoxpress",
+			"description": "PhotoXpress.com is a stock photo image bank, providing creative professionals with a large and legal image library for both personal and professional use ??????? including Web site design, brochures, advertisements and editorial illustrations.PhotoXpress.com has been re-launched, offering Monthly download packages (for one-time purchase or monthly renewal) starting at just $9.99 for 5 photo downloads. The PhotoXpress Library has over 14,000,000 high-quality, royalty-free photos and vectors, and the site offers a number of other new features with every account:Unlimited LightboxesEasy to access Lightbox DashboardBulk downloadingDrag and Drop thumbnailsRollover downloadsDownload history7-day download windowDownload watermarked comp imagesFamily FriendlyCreate a team and share downloadsLargest sized, high resolution imagesLive chat supportShare lightboxesVectors for 3 downloadsAffiliation Program",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/892_logo.jpg",
+			"humanURL": "http://www.photoxpress.com/",
+			"baseURL": "https:///",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/photoxpress/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Prosperent",
+			"x-api-slug": "prosperent",
+			"description": "Prosperent helps bloggers, forums, and apps promote and recommend products from top retailers and earn commissions from purchases.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/904-prosperent.jpg",
+			"humanURL": "http://prosperent.com",
+			"baseURL": "https:///",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/prosperent/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Team Skimlinks",
+			"x-api-slug": "team-skimlinks",
+			"description": "Skimlinks helps publishers monetize editorial content through automated affiliate links for products. Sign up today and connect to 24,000 merchants!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/933-team-skimlinks.jpg",
+			"humanURL": "http://skimlinks.com/skimlinks",
+			"baseURL": "https:///",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/team-skimlinks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ambassador",
+			"x-api-slug": "ambassador",
+			"description": "Ambassador is the world-leading referral marketing software, running todays most popular referral programs. Visit us to learn, buy, and get support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/985-ambassador.jpg",
+			"humanURL": "https://getambassador.com/",
+			"baseURL": "https:///",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/ambassador/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Affilae",
+			"x-api-slug": "affilae",
+			"description": "Create, track & manage easily your own affiliate network. Affilae is a SaaS affiliate marketing software improved by hundreds advertisers around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1999-affilae.jpg",
+			"humanURL": "https://affilae.com/en",
+			"baseURL": "https:///",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/affilae/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amadeus",
+			"x-api-slug": "amadeus",
+			"description": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively and serve travellers better than ever",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg",
+			"humanURL": "https://amadeus.com",
+			"baseURL": "https://api.sandbox.amadeus.com//v1.2",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Jumpseller",
+			"x-api-slug": "jumpseller",
+			"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg",
+			"humanURL": "http://jumpseller.com",
+			"baseURL": "https://api.jumpseller.com//v1",
+			"tags": "Affiliates",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/jumpseller/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/isendpro.telecom.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/jumpseller.stack.network"
-		},
-		{
-			"type": "x-crunchbase",
-			"url": "https:\/\/crunchbase.com\/organization\/vendder"
-		},
-		{
-			"type": "x-email",
-			"url": "info@jumpseller.com"
-		},
-		{
-			"type": "x-email",
-			"url": "support@jumpseller.com"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/Jumpseller"
-		},
-		{
-			"type": "x-website",
-			"url": "http:\/\/jumpseller.com"
-		}
-	],
+	"tags": "Affiliates",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "Best Buy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/best-buy/apis.yaml"
+		},
+		{
+			"name": "Expedia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/expedia/apis.yaml"
+		},
+		{
+			"name": "PhotoXpress",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/photoxpress/apis.yaml"
+		},
+		{
+			"name": "Prosperent",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/prosperent/apis.yaml"
+		},
+		{
+			"name": "Team Skimlinks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/team-skimlinks/apis.yaml"
+		},
+		{
+			"name": "Ambassador",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/ambassador/apis.yaml"
+		},
+		{
+			"name": "Affilae",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/affilae/apis.yaml"
+		},
+		{
+			"name": "Amadeus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "Jumpseller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/jumpseller/apis.yaml"
 		}
 	]
 }

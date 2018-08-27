@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/933-team-s
 x-kinRank: "7"
 x-alexaRank: "77794"
 tags: Affiliates
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/affiliates/master/_listings/team-skimlinks/apis.md
 specificationVersion: "0.14"
 apis: []
